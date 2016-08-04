@@ -3,7 +3,7 @@
 A data standard for exchanging data describing natural history collections
 
 * **Download**: [Download](NCD-v090_TDWG)
-* **Status**: TDWG draft standard
+* **Status**: TDWG __DRAFT__ standard
 * **Category**: Technical specification
 * **Permanent URL**: http://www.tdwg.org/standards/312
 * **TDWG task group**: Natural Collections Descriptions interest group
