@@ -69,50 +69,50 @@ Three main areas are served by collection-level description records:
 
 1. SPEED
 
-Collections of natural history material can be large. Consequently detailed item-level descriptions often take a long time to generate. A collection-level record can ensure that knowledge about a collection can be rapidly revealed.
+  Collections of natural history material can be large. Consequently detailed item-level descriptions often take a long time to generate. A collection-level record can ensure that knowledge about a collection can be rapidly revealed.
 
-It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item.
+  It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item.
 
 2. CROSS-DOMAIN RESOURCE DISCOVERY
 
-Relating collections that are in museums, libraries, archives and other organisations (cross-domain resources) is a priority for many governments. By adopting the same standard for collections in each domain, it is possible to search across all collections, regardless of domain or location.
+  Relating collections that are in museums, libraries, archives and other organisations (cross-domain resources) is a priority for many governments. By adopting the same standard for collections in each domain, it is possible to search across all collections, regardless of domain or location.
 
 3. RE-UNITING SCATTERED COLLECTIONS
 
-"Virtual collections" are another way to link resources. Some organisations divide collections between departments for curatorial purposes. Researchers would need to contact each department individually to assess the complete collection. Similarly, some collections, such as those of Darwin, have been dispersed throughout several organisations. These collections may be re-united in a virtual sense, using collection descriptions for each component.
+  "Virtual collections" are another way to link resources. Some organisations divide collections between departments for curatorial purposes. Researchers would need to contact each department individually to assess the complete collection. Similarly, some collections, such as those of Darwin, have been dispersed throughout several organisations. These collections may be re-united in a virtual sense, using collection descriptions for each component.
 
 4. POINTER TO ITEM-LEVEL DETAIL
 
-Collection descriptions are verbose, and therefore complement the rows of raw data that are produced by item-level databases.
+  Collection descriptions are verbose, and therefore complement the rows of raw data that are produced by item-level databases.
 
-A collection description record can be created for a collection whether the items in that collection have their own records in a database, or not. Where a database containing item-level details exists, a link can be provided to that database to provide more detail.
+  A collection description record can be created for a collection whether the items in that collection have their own records in a database, or not. Where a database containing item-level details exists, a link can be provided to that database to provide more detail.
 
-If the collection does not have an item-level database, producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
+  If the collection does not have an item-level database, producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
 
 5. TOOL TO HELP WITH COLLECTIONS MANAGEMENT
 
-Collection descriptions enable a broad perspective. A set of collection descriptions could serve a variety of additional purposes for any organisation:
+  Collection descriptions enable a broad perspective. A set of collection descriptions could serve a variety of additional purposes for any organisation:
 
-* A collections inventory is helpful in protecting against both loss of data and loss of collections and thus serves as a form of audit control and security against unauthorised disposal.
-* It can help with the assessment of the strengths and gaps in the organisation as a whole, so that finding collaboration partners that have either the same or complementary strengths is simplified.
-* It can help to identify which areas should be a priority for development in strategic plans and to establish priorities for item-level cataloguing.
-* By recording conservation concerns, the priorities for conservation / preservation treatment can be established. Collections cannot be protected if it is not known that they exist.
+  * A collections inventory is helpful in protecting against both loss of data and loss of collections and thus serves as a form of audit control and security against unauthorised disposal.
+  * It can help with the assessment of the strengths and gaps in the organisation as a whole, so that finding collaboration partners that have either the same or complementary strengths is simplified.
+  * It can help to identify which areas should be a priority for development in strategic plans and to establish priorities for item-level cataloguing.
+  * By recording conservation concerns, the priorities for conservation / preservation treatment can be established. Collections cannot be protected if it is not known that they exist.
 
 6. EARLY WARNING OF TECHNOLOGICAL OBSOLESCENCE
 
-Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence.
+  Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence.
 
-Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.
+  Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.
 
 7. REPOSITORY FOR ADDITIONAL INFORMATION
 
-Collection description records act as a convenient place to store information volunteered by visitors.
+  Collection description records act as a convenient place to store information volunteered by visitors.
 
 8. MULTIPLE USE OF DATA
 
-Re-use of data is important. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids. Conversely, data recorded in the collection description records can be used to produce exhibit labels.
+  Re-use of data is important. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids. Conversely, data recorded in the collection description records can be used to produce exhibit labels.
 
-The data can also be provided to external initiatives, some of which wish to merge data from several sources to provide regional coverage of biodiversity collections.
+  The data can also be provided to external initiatives, some of which wish to merge data from several sources to provide regional coverage of biodiversity collections.
 
 ### How has NCD evolved and who is involved?
 
