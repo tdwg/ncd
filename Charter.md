@@ -9,12 +9,19 @@ Neil Thomson (n.thomson(at)nhm.ac.uk)
 ## Core Members
 
 Wouter Addink	(wouter(at)eti.uva.nl)	Technical - NCD Toolkit
+
 Carol Butler	(butlercr(at)si.edu)	Terminology
+
 Markus Döring	(m.doering(at)BGBM.org)	Technical - RDF
+
 Doug Holland	(doug.holland(at)mobot.org)	Data mapping
+
 Barbara Mathé	(mathe(at)amnh.org)	Data mapping
+
 Connie Rinaldo	(crinaldo(at)oeb.harvard.edu)	Documentation
+
 Larry Speers	(lspeers(at)gbif.org)	GBIF liaison
+
 Günter Waibel	(Guenter_Waibel(at)notes.rlg.org)	Resource organiser
 
 ## Motivation
