@@ -84,15 +84,11 @@ Some of the main areas are served by collection-level description records:
 
   It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item.
 
-2. CROSS-DOMAIN RESOURCE DISCOVERY
-
-  Relating collections that are in museums, libraries, archives and other organisations (cross-domain resources) is a priority for many governments. By adopting the same standard for collections in each domain, it is possible to search across all collections, regardless of domain or location.
-
-3. RE-UNITING SCATTERED COLLECTIONS
+2. RE-UNITING SCATTERED COLLECTIONS
 
   "Virtual collections" are another way to link resources. Some organisations divide collections between departments for curatorial purposes. Researchers would need to contact each department individually to assess the complete collection. Similarly, some collections, such as those of Darwin, have been dispersed throughout several organisations. These collections may be re-united in a virtual sense, using collection descriptions for each component.
 
-4. POINTER TO ITEM-LEVEL DETAIL
+3. POINTER TO ITEM-LEVEL DETAIL
 
   Collection descriptions are verbose, and therefore complement the rows of raw data that are produced by item-level databases.
 
@@ -100,7 +96,7 @@ Some of the main areas are served by collection-level description records:
 
   If the collection does not have an item-level database, producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
 
-5. TOOL TO HELP WITH COLLECTIONS MANAGEMENT
+4. TOOL TO HELP WITH COLLECTIONS MANAGEMENT
 
   Collection descriptions enable a broad perspective. A set of collection descriptions could serve a variety of additional purposes for any organisation:
 
@@ -109,17 +105,17 @@ Some of the main areas are served by collection-level description records:
   * It can help to identify which areas should be a priority for development in strategic plans and to establish priorities for item-level cataloguing.
   * By recording conservation concerns, the priorities for conservation / preservation treatment can be established. Collections cannot be protected if it is not known that they exist.
 
-6. EARLY WARNING OF TECHNOLOGICAL OBSOLESCENCE
+5. EARLY WARNING OF TECHNOLOGICAL OBSOLESCENCE
 
   Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence.
 
   Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.
 
-7. REPOSITORY FOR ADDITIONAL INFORMATION
+6. REPOSITORY FOR ADDITIONAL INFORMATION
 
   Collection description records act as a convenient place to store information volunteered by visitors.
 
-8. MULTIPLE USE OF DATA
+7. MULTIPLE USE OF DATA
 
   Re-use of data is important. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids. Conversely, data recorded in the collection description records can be used to produce exhibit labels.
 
