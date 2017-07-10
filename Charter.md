@@ -143,16 +143,16 @@ Discussion at the TDWG 2004 meeting in Christchurch, New Zealand, concluded that
 
 ## Summary
 
-The Collections Descriptions Interest Group brings together work on collections descriptions being carried out for the European Union Framework VI programme known as SYNTHESYS and the work performed by RAVNS under the auspices of RLG with that carried out by TDWG members.
+~~The Collections Descriptions Interest Group brings together work on collections descriptions being carried out for the European Union Framework VI programme known as SYNTHESYS and the work performed by RAVNS under the auspices of RLG with that carried out by TDWG members.~~
 
-Natural Collections Descriptions (NCD) covers all types of collections of natural history material; specimens, original artwork, photographs, archives, published material or a mixture.
+~~Natural Collections Descriptions (NCD) covers all types of collections of natural history material; specimens, original artwork, photographs, archives, published material or a mixture.~~
 
-The Interest Group is developing NCD for use with RDF to ensure that it integrates with TDWG's common development architecture. The standard enables the aggregation of collections descriptions from many sources and facilitates resource discovery - particularly for collections that do not have a Web presence.
+~~The Interest Group is developing NCD for use with RDF to ensure that it integrates with TDWG's common development architecture. The standard enables the aggregation of collections descriptions from many sources and facilitates resource discovery - particularly for collections that do not have a Web presence.~~
 
-NCD is a standard between the general resource discovery standards such as Dublin Core, and the rich collections description standards such as EAD. Mappings enable the extraction of a Dublin Core record from an NCD record or, conversely, filling out an NCD record into an EAD record.
+~~NCD is a standard between the general resource discovery standards such as Dublin Core, and the rich collections description standards such as EAD. Mappings enable the extraction of a Dublin Core record from an NCD record or, conversely, filling out an NCD record into an EAD record.~~
 
 ## Resources
 
-* The NCD Website is at: http://www.tdwg.org/activities/ncd/
-* To join the mailing list see: http://lists.tdwg.org/mailman/listinfo/tdwg-ncd
-* Discussion and documents are on the Wiki: http://wiki.tdwg.org/twiki/bin/view/NCD/WebHome
+* ~~The NCD Website is at: http://www.tdwg.org/activities/ncd/~~
+* ~~To join the mailing list see: http://lists.tdwg.org/mailman/listinfo/tdwg-ncd~~
+* ~~Discussion and documents are on the Wiki: http://wiki.tdwg.org/twiki/bin/view/NCD/WebHome~~
