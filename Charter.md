@@ -53,17 +53,17 @@ The NCD standard covers any type of natural history collection, including specim
 
 ### What are collections descriptions?
 
-Collection descriptions are electronic records that document the holdings of organisations as groups of items. Such descriptions complement the more traditional item-level records describing a single specimen or a library book. Each collection record describes one entire collection, including information on the extent and purpose of the collection, conditions of access and use and who to contact for more information.
+~~Collection descriptions are electronic records that document the holdings of organisations as groups of items. Such descriptions complement the more traditional item-level records describing a single specimen or a library book. Each collection record describes one entire collection, including information on the extent and purpose of the collection, conditions of access and use and who to contact for more information.
 
-A collection is loosely defined as any group of things that have something in common. That "something in common" can be defined by the basic questions that users ask when accessing collections - who, what, where and when. Examples of collections include:
+~~A collection is loosely defined as any group of things that have something in common. That "something in common" can be defined by the basic questions that users ask when accessing collections - who, what, where and when. Examples of collections include:~~
 
-* items that were collected or made by a particular person
-* items that have the same format, such as art on paper
-* items that came from the same place
-* specimens that belong to the same taxonomic group
-* all specimens collected on a research voyage
+* ~~items that were collected or made by a particular person~~
+* ~~items that have the same format, such as art on paper~~
+* ~~items that came from the same place~~
+* ~~specimens that belong to the same taxonomic group~~
+* ~~all specimens collected on a research voyage~~
 
-In natural history museums, for example, the best known collections are the specimens, the library and the archives. Exhibitions, paintings and sculptures are also collections. The electronic equivalents include datasets and databases (which are collections of item-level records) and the thematic sections of Web-sites.
+~~In natural history museums, for example, the best known collections are the specimens, the library and the archives. Exhibitions, paintings and sculptures are also collections. The electronic equivalents include datasets and databases (which are collections of item-level records) and the thematic sections of Web-sites.~~
 
 ### What are the uses of collection descriptions?
 
