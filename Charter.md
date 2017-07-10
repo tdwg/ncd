@@ -10,14 +10,14 @@ Deb Paul (dpaul@fsu.edu)
 
 ## Current TDWG Members expressing interest to work on NCD
 
-Wouter Addink	(wouter(at)eti.uva.nl)	Technical - NCD Toolkit
-Stan Blum (stanblum(at)gmail.com)
-Carol Butler	(butlercr(at)si.edu)	Terminology
-Heather Cole (Heather.Cole(at)AGR.GC.CA)
-Shelley James (Shelley.James(at)bgcp.nsw.gov.au)
-Connie Rinaldo	(crinaldo(at)oeb.harvard.edu)	Documentation
-Barbara Thiers (bthiers(at)nybg.org)
-Mike Trizna (triznam(at)si.edu)
+Wouter Addink	(wouter(at)eti.uva.nl)	Technical - NCD Toolkit  
+Stan Blum (stanblum(at)gmail.com)  
+Carol Butler	(butlercr(at)si.edu)	Terminology  
+Heather Cole (Heather.Cole(at)AGR.GC.CA)  
+Shelley James (Sheley.James(at)bgcp.nsw.gov.au)  
+Connie Rinaldo	(crinaldo(at)oeb.harvard.edu)	Documentation  
+Barbara Thiers (bthiers(at)nybg.org)  
+Mike Trizna (triznam(at)si.edu)  
 
 ## Motivation
 
@@ -135,11 +135,11 @@ Discussion at the TDWG 2004 meeting in Christchurch, New Zealand, concluded that
 
 ## Original Charter Core Members
 
-Wouter Addink	(wouter(at)eti.uva.nl)	Technical - NCD Toolkit
-Carol Butler	(butlercr(at)si.edu)	Terminology
-Markus Döring	(m.doering(at)BGBM.org)	Technical - RDF
-Doug Holland	(doug.holland(at)mobot.org)	Data mapping
-Barbara Mathé	(mathe(at)amnh.org)	Data mapping
-Connie Rinaldo	(crinaldo(at)oeb.harvard.edu)	Documentation
-Larry Speers	(lspeers(at)gbif.org)	GBIF liaison
-Günter Waibel	(Guenter_Waibel(at)notes.rlg.org)	Resource organiser
+Wouter Addink	(wouter(at)eti.uva.nl)	Technical - NCD Toolkit  
+Carol Butler	(butlercr(at)si.edu)	Terminology  
+Markus Döring	(m.doering(at)BGBM.org)	Technical - RDF  
+Doug Holland	(doug.holland(at)mobot.org)	Data mapping  
+Barbara Mathé	(mathe(at)amnh.org)	Data mapping  
+Connie Rinaldo	(crinaldo(at)oeb.harvard.edu)	Documentation  
+Larry Speers	(lspeers(at)gbif.org)	GBIF liaison  
+Günter Waibel	(Guenter_Waibel(at)notes.rlg.org)	Resource organiser  
