@@ -46,25 +46,27 @@ are owners of collections that would themselves like to test and make use of the
 
 ### What is NCD?
 
-Natural Collections Description (NCD) is a data standard for describing collections of natural history materials at the collection level; one NCD record describes one entire collection.
+Natural Collections Description (NCD) is a data standard for describing groups of natural history objects; one NCD record describes one entire group.
 
-As part of addressing the critical need for much better knowledge about worldwide collection holders and their holdings, this NCD group recognizes the need for data standards to capture concepts not currently part of the EML standard. Current steps are being taken at GBIF to create an automated collection-level data-sharing resource that will encompass the data currently housed in GRBio. In this sense, the NCD group recognizes our path is one of looking at an implementation and developing a standard that envelops the data and data model found in this implementation. At the same time we will strive to provide a rich, but carefully curated, set of terms and relationships directed at addressing known knowledge gaps and accessibility issues. We understand the need to keep the model as simple as possible, and thoughtfully choosing what collections-level data is critical to providing policy-makers and researchers alike - with the best data available when planning. Making this data available, in a structured format, with a robust API available, would mean, for example, that we could more easily show how many herbarium are digitizing - and how much is done; or what expertise and equipment are available in a given institution. Visualizing institution and collections-level data of this type also presents a captivating way to show the value of this metadata.
+As part of addressing the critical need for much better knowledge about worldwide collection holders and their holdings, this NCD group recognizes the need for data standards to capture concepts not currently part of the EML standard. Current steps are being taken at GBIF to create an automated collection-level data-sharing resource that will encompass the data currently housed in GRBio. In this sense, the NCD group recognizes our path is one of co-developing a standard and a reference implementation and producing standards documentation on the data and data model found in this reference implementation so that others can build compatible systems. At the same time we will strive to provide a rich, but carefully curated, set of terms and relationships directed at addressing known knowledge gaps and accessibility issues. We understand the need to keep the model as simple as possible, and thoughtfully choosing what collections-level data is critical to providing policy-makers and researchers alike with the best data available when planning. Making this data available, in a structured format, with a robust API available, would mean, for example, that we could more easily show how many herbarium are digitizing - and how much is done. Visualizing institution and collections-level data of this type also presents a captivating way to show the value of this metadata.
 
-The NCD standard covers any type of natural history collection, including specimens, original artwork, archives, observations, library materials, datasets, photographs or mixed collections such as those that result from expeditions and voyages of discovery.
+The NCD standard seeks to describe the chracteristics of groups of objects that are already represented indivudiually under other current and emerging TDWG standards such as Darwin Core (specimens, observations) or Audubon Core (images, field notebooks). This limitation is imposed so that the scope of NCD can be narrowly definied to the areas in which the TDWG organization has already built up the existing body of knowledge for what constitutes useful descriptive elements.
 
 ### What are collections descriptions?
 
-~~Collection descriptions are electronic records that document the holdings of organisations as groups of items. Such descriptions complement the more traditional item-level records describing a single specimen or a library book. Each collection record describes one entire collection, including information on the extent and purpose of the collection, conditions of access and use and who to contact for more information.~~
+In the natural history community the nature of collections can vary widely both across and within organizations. For the purposes of this standard, a collection will simply be any group of items that share some common characteristics such that they are useful to describe as a group. Such characteristics might include:
 
-~~A collection is loosely defined as any group of things that have something in common. That "something in common" can be defined by the basic questions that users ask when accessing collections - who, what, where and when. Examples of collections include:~~
+* items that were collected or made by a particular person
+* items that came from the same place
+* all pages of a digitized fieldbook
+* a group of records in a dataset or database
+* all specimens referenced within a single publication
+* specimens that belong to some taxonomic group
+* all specimens collected on a research voyage
+* all specimens housed within a single location
+* all specimens maanged by an individual curator
 
-* ~~items that were collected or made by a particular person~~
-* ~~items that have the same format, such as art on paper~~
-* ~~items that came from the same place~~
-* ~~specimens that belong to the same taxonomic group~~
-* ~~all specimens collected on a research voyage~~
-
-~~In natural history museums, for example, the best known collections are the specimens, the library and the archives. Exhibitions, paintings and sculptures are also collections. The electronic equivalents include datasets and databases (which are collections of item-level records) and the thematic sections of Web-sites.~~
+This group will lay out a standard methodology for enumerating those common chracteristics at the group level for the purpose of communicating the eixistance and nature of to others. These group level characteristics may come from a variety of sources including aggreagations of individual records where those records are already digitized or hand generation via manual inventories of physical collections.
 
 ### What are the uses of collection descriptions?
 
