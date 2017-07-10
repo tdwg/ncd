@@ -70,7 +70,7 @@ This group will lay out a standard methodology for enumerating those common chra
 
 ### What are the uses of collection descriptions?
 
-Three main areas are served by collection-level description records:
+Some of the main areas are served by collection-level description records:
 
 * Resource discovery, providing a descriptive overview of each collection
 * Establishment of relationships between collections in several locations
