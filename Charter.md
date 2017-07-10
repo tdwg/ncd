@@ -4,7 +4,7 @@ TDWG Interest Group
 
 ## Convenors
 
-Alex Thompson (godfoder(at)acis.ufl.edu)
+Alex Thompson (godfoder@acis.ufl.edu)
 
 Deb Paul (dpaul@fsu.edu)
 
