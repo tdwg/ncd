@@ -80,9 +80,7 @@ Some of the main areas are served by collection-level description records:
 
 1. SPEED
 
-  Collections of natural history material can be large. Consequently detailed item-level descriptions often take a long time to generate. A collection-level record can ensure that knowledge about a collection can be rapidly revealed.
-
-  It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item.
+  Collections of natural history material can be large. Consequently detailed item-level descriptions often take a long time to generate. A collection-level record can ensure that knowledge about a collection can be rapidly revealed. It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item.
 
 2. RE-UNITING SCATTERED COLLECTIONS
 
@@ -90,11 +88,7 @@ Some of the main areas are served by collection-level description records:
 
 3. POINTER TO ITEM-LEVEL DETAIL
 
-  Collection descriptions are verbose, and therefore complement the rows of raw data that are produced by item-level databases.
-
-  A collection description record can be created for a collection whether the items in that collection have their own records in a database, or not. Where a database containing item-level details exists, a link can be provided to that database to provide more detail.
-
-  If the collection does not have an item-level database, producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
+  Collection descriptions are verbose, and therefore complement the rows of raw data that are produced by item-level databases. A collection description record can be created for a collection whether the items in that collection have their own records in a database, or not. Where a database containing item-level details exists, a link can be provided to that database to provide more detail. If the collection does not have an item-level database, producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
 
 4. TOOL TO HELP WITH COLLECTIONS MANAGEMENT
 
@@ -107,15 +101,11 @@ Some of the main areas are served by collection-level description records:
 
 5. EARLY WARNING OF TECHNOLOGICAL OBSOLESCENCE
 
-  Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence.
-
-  Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.
+  Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence. Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.
 
 6. MULTIPLE USE OF DATA
 
-  Re-use of data is important. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids. Conversely, data recorded in the collection description records can be used to produce exhibit labels.
-
-  The data can also be provided to external initiatives, some of which wish to merge data from several sources to provide regional coverage of biodiversity collections.
+  Re-use of data is important. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids. Conversely, data recorded in the collection description records can be used to produce exhibit labels. The data can also be provided to external initiatives, some of which wish to merge data from several sources to provide regional coverage of biodiversity collections.
 
 ### How has NCD evolved and who is involved?
 
