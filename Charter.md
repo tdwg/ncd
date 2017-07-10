@@ -111,11 +111,7 @@ Some of the main areas are served by collection-level description records:
 
   Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.
 
-6. REPOSITORY FOR ADDITIONAL INFORMATION
-
-  Collection description records act as a convenient place to store information volunteered by visitors.
-
-7. MULTIPLE USE OF DATA
+6. MULTIPLE USE OF DATA
 
   Re-use of data is important. Collection description records can be created with the use of existing published or unpublished resources such as printed catalogues, exhibition planning documents or archival finding aids. Conversely, data recorded in the collection description records can be used to produce exhibit labels.
 
