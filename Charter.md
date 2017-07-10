@@ -73,8 +73,9 @@ This group will lay out a standard methodology for enumerating those common chra
 
 Some of the main areas are served by collection-level description records:
 
-* Resource discovery, providing a descriptive overview of each collection
+* Providing a descriptive overview of each collection
 * Establishment of relationships between collections in several locations
+* Resource discovery
 * As an aid for collections management processes
 * Provide complete metadata for other data records (e.g. specimen records)
 
