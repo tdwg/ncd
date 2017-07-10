@@ -53,7 +53,7 @@ The NCD standard covers any type of natural history collection, including specim
 
 ### What are collections descriptions?
 
-~~Collection descriptions are electronic records that document the holdings of organisations as groups of items. Such descriptions complement the more traditional item-level records describing a single specimen or a library book. Each collection record describes one entire collection, including information on the extent and purpose of the collection, conditions of access and use and who to contact for more information.
+~~Collection descriptions are electronic records that document the holdings of organisations as groups of items. Such descriptions complement the more traditional item-level records describing a single specimen or a library book. Each collection record describes one entire collection, including information on the extent and purpose of the collection, conditions of access and use and who to contact for more information.~~
 
 ~~A collection is loosely defined as any group of things that have something in common. That "something in common" can be defined by the basic questions that users ask when accessing collections - who, what, where and when. Examples of collections include:~~
 
