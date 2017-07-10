@@ -65,7 +65,7 @@ In the natural history community the nature of collections can vary widely both 
 * specimens that belong to some taxonomic group
 * all specimens collected on a research voyage
 * all specimens housed within a single location
-* all specimens maanged by an individual curator
+* all specimens managed by an individual curator
 
 This group will lay out a standard methodology for enumerating those common chracteristics at the group level for the purpose of communicating the eixistance and nature of to others. These group level characteristics may come from a variety of sources including aggreagations of individual records where those records are already digitized or hand generation via manual inventories of physical collections.
 
