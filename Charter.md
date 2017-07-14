@@ -83,7 +83,7 @@ Detailed item-level descriptions often take a long time to generate. A collectio
 
 <dt>Provide a descriptive overview of the collections landscape</dt>
 <dd>Producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
-<br>
+<br><br>
 Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence. Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.</dd>
 
 <dt>Provide aid for collections management processes</dt>
