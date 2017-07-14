@@ -8,7 +8,7 @@ Alex Thompson (godfoder@acis.ufl.edu)
 
 Deb Paul (dpaul@fsu.edu)
 
-## Current TDWG Members expressing interest to work on NCD
+## Current people expressing interest to work on NCD
 
 Wouter Addink	(wouter(at)eti.uva.nl)	Technical - NCD Toolkit  
 Stan Blum (stanblum(at)gmail.com)  
@@ -18,6 +18,12 @@ Shelley James (Sheley.James(at)bgcp.nsw.gov.au)
 Connie Rinaldo	(crinaldo(at)oeb.harvard.edu)	Documentation  
 Barbara Thiers (bthiers(at)nybg.org)  
 Mike Trizna (triznam(at)si.edu)  
+Sharon Grant (sgrant(at)fieldmuseum.org)
+Kate Webbink (kwebbink(at)fieldmuseum.org)
+Janeen Jones (jjones(at)fieldmuseum.org)
+Pete Herbst (pherbst(at)fieldmuseum.org)
+Rob Zshernitz (rzschernitz(at)fieldmuseum.org)
+Rusty Russell (rrussell(at)fieldmuseum.org)
 
 ## Motivation
 
