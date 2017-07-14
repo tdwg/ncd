@@ -82,9 +82,12 @@ Detailed item-level descriptions often take a long time to generate. A collectio
 <dd>It is also useful to hold the details that are common to the whole collection once, rather than being repeated with the record for each item.  Where a database containing item-level details exists, a link can be provided to that database to provide more detail. If the collection does not have an item-level database. Data recorded in the collection description records can be used to produce exhibit labels. The data can also be provided to external initiatives, some of which wish to merge data from several sources to provide regional coverage of biodiversity collections.</dd>
 
 <dt>Provide a descriptive overview of the collections landscape</dt>
-<dd>Producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.
-<br><br>
-Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence. Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.</dd>
+<dd>
+<ul>
+<li>Producing a collection description reduces the chances of that collection being overlooked by researchers using the Web for resource discovery.</li>
+<li>Collection descriptions can serve to prevent loss of data that is in a physical form or data in a format that is nearing technological obsolescence. Creating collection descriptions for datasets that includes format information will help to act as an early warning so that data can be transferred to a current format. Data then becomes part of a digital preservation programme, rather than a digital archaeology project.</li>
+<li>Gap Analysis</li>
+</dd>
 
 <dt>Provide aid for collections management processes</dt>
 <dd>Collection descriptions enable a broad perspective. A set of collection descriptions could serve a variety of additional purposes for any organisation:
