@@ -88,10 +88,12 @@ Collection descriptions can serve to prevent loss of data that is in a physical 
 
 <dt>Provide aid for collections management processes</dt>
 <dd>Collection descriptions enable a broad perspective. A set of collection descriptions could serve a variety of additional purposes for any organisation:
-*A collections inventory is helpful in protecting against both loss of data and loss of collections and thus serves as a form of audit control and security against unauthorised disposal.
-*It can help with the assessment of the strengths and gaps in the organisation as a whole, so that finding collaboration partners that have either the same or complementary strengths is simplified.
-*It can help to identify which areas should be a priority for development in strategic plans and to establish priorities for item-level cataloguing.
-*By recording conservation concerns, the priorities for conservation / preservation treatment can be established. Collections cannot be protected if it is not known that they exist.
+<ul>
+<li>A collections inventory is helpful in protecting against both loss of data and loss of collections and thus serves as a form of audit control and security against unauthorised disposal.</li>
+<li>It can help with the assessment of the strengths and gaps in the organisation as a whole, so that finding collaboration partners that have either the same or complementary strengths is simplified.</li>
+<li>It can help to identify which areas should be a priority for development in strategic plans and to establish priorities for item-level cataloguing.</li>
+<li>By recording conservation concerns, the priorities for conservation / preservation treatment can be established. Collections cannot be protected if it is not known that they exist.</li>
+</ul>
 </dd>
 </dl>
 
