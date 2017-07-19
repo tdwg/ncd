@@ -27,7 +27,7 @@ Rusty Russell (rrussell(at)fieldmuseum.org)
 
 ## Motivation
 
-The Group is developing and supporting the Natural Collections Description (NCD) data standard for describing entire collections of natural history materials. Examples include collections of specimens, observations data, original artwork, photographs, and materials from the many voyages of discovery that have been conducted. Collection description records contain information about the collection, access and usage of the collection and where to get more detailed information.
+The Group is developing and supporting the Natural Collections Description (NCD) data standard for describing entire collections of natural history materials. Examples include collections of specimens, observation data, original artwork, photographs, and materials from the many voyages of discovery that have been conducted. Collection description records contain information about the collection, access and usage of the collection and where to get more detailed information.
 
 There are valuable collections that have no information stored in any database and many do not have a presence on the Internet. Institutional and Collection-level data currently shared along with specimen-record-level data records is often sparse and not in any way complete. This collection-level data is currently mapped to the Ecological Metadata Language (EML) standard originally developed to meet the data-sharing needs of the ecological community. Data provided in the EML data file often conflates data about what is in the dataset being shared with data about the entire collection or institution.
 
