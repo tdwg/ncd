@@ -19,15 +19,15 @@ Development of this collections-level data resource also facilitates further dev
 ## Challenges
 * tracking undigitized collections (need to discover them first)
 * allow / deal with merging / splitting collections
-* DH / AT suggest we can authoritatively manage the IDs necessary to implement this. Will need to use contextual clues embedded in records to disambiguate.
+* it is suggested that "we" authoritatively manage the IDs necessary to implement this. Will need to use contextual clues embedded in records to disambiguate.
 * exactly which parts of these records need to be (must be) machine readable?
 example: collectionCodes confusion, who are the contacts for what purpose
 * prototype. Will there be a public interface for humans to update? Some (most?) of this will be via an API - not human-mediated. So how do these fit / link so everyone can fulfill their role.
 * access / curatorial control: Authorization (Authentication), Curation, Accreditation
 * authority. Who are the authors of this data?
-* life-cycle issues. (from DH) what can we learn about life-cycle issues from the publishers?
+* life-cycle issues. what can we learn about life-cycle issues from the publishers?
 * collection outreach / invitation. We will need carrots / incentives to invite / include people in this endeavor. We need a model (is there one)?
-* DH can we use this as a way to bootstrap curation of collections data? (future)
+* can we use this as a way to bootstrap curation of collections data? (future)
 
 ## Responsibilities by Task Groups
 * Use Cases group (Barb Thiers): gather and evaluate. Gathering done (not exhaustive). Use cases don’t need to be comprehensive. Barb notes it would be good to figure out how to identify compelling collections (for conservation, CITES, transfer of material, discovering which are at risk, etc). These use cases assist with scoping the data standard. Those wishing to help include: Barbara Thiers, Jana Hoffmann, Carolyn Sheffield, and Anissa Lybaert. (Perhaps Connie Rinaldo too).
@@ -49,7 +49,7 @@ example: collectionCodes confusion, who are the contacts for what purpose
 ## Membership
 Currently assumed to be those who expressed interest at the last two TDWG meetings.
 
-Barbara Thiers, Joanna McCaffrey, Kevin Love, Alex Thompson, Donald Hobern, Deborah Paul, Sharon Grant, Kate Webbink, (et al at Field Museum), Mike Trizna, William Ulate, Connie Rinaldo, Andrea Hahn, Wouter Addink, Carolyn Sheffield, Holly Little, James Macklin, Anissa A, Joel Ramirez, Melissa Tulig, Falko Glöckler (MfN Berlin), Jana Hoffmann (MfN Berlin), Dag Endresen, Judith Price
+Barbara Thiers, Joanna McCaffrey, Kevin Love, Alex Thompson, Donald Hobern, Deborah Paul, Sharon Grant, Kate Webbink*, (et al at Field Museum), Mike Trizna, William Ulate, Connie Rinaldo, Andrea Hahn*, Wouter Addink, Carolyn Sheffield, Holly Little, James Macklin, Anissa Lybaert, Joel Ramirez, Melissa Tulig, Falko Glöckler (MfN Berlin), Jana Hoffmann (MfN Berlin), Dag Endresen, Judith Price
 
 ## Meetings, documentation and reporting
 
@@ -64,12 +64,12 @@ Barbara Thiers, Joanna McCaffrey, Kevin Love, Alex Thompson, Donald Hobern, Debo
 ## Draft Specifications
 * https://github.com/tdwg/ncd/tree/master/NCD-v090_TDWG
 
-## Expert reviews
+## Expert reviews (potential list, not exhaustive list)
 * Jonathan Rees
 * GBIF
 * iDigBio
 * VertNet
 * Symbiota
-* Specify?
+* Specify
 * ARCTOS
 
