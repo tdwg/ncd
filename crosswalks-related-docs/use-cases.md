@@ -37,17 +37,13 @@ This use case will focus on the collection level records which were created usin
 ### Collections as defined for field book description
 
 From Nakasone, S. and Sheffield, C. Descriptive Metadata for Field Books D-Lib Magazine, Volume 19, Number 11/2 (November/December 2013) http://www.dlib.org/dlib/november13/nakasone/11nakasone.html#4 :
-“A "collection" is defined as any group of field books with a unifying relationship(4). Field book collections can be assembled in many ways; Smithsonian collections, however, are usually grouped by collector or expedition. For example, a collection grouped by the collector Alexander Wetmore would consist of field books created or owned by Wetmore. Alternatively, a collection grouped by the expedition United States Exploring Expedition might consist of field books created by various individuals that participated in that expedition. Less frequently, collections are assembled by the organizations as a creator. However they are grouped, collections are determined based on the way the field books were physically organized, with respect to the provenance and order in which they were received and maintained, prior to our involvement, in accordance with archival practice.”(5)
+“A "collection" is defined as any group of field books with a unifying relationship(4). Field book collections can be assembled in many ways; Smithsonian collections, however, are usually grouped by collector or expedition. For example, a collection grouped by the collector Alexander Wetmore would consist of field books created or owned by Wetmore. Alternatively, a collection grouped by the expedition United States Exploring Expedition might consist of field books created by various individuals that participated in that expedition. Less frequently, collections are assembled by the organizations as a creator. However they are grouped, collections are determined based on the way the field books were physically organized, with respect to the provenance and order in which they were received and maintained, prior to our involvement, in accordance with archival practice.”(5)  
 
-  4 Society of American Archivists, Describing archives: A content standard, (Chicago: Society of American Archivists, 2004),, 203.
+  4 Society of American Archivists, Describing archives: A content standard, (Chicago: Society of American Archivists, 2004),, 203.  
 
-  5 We retain the organization of collections already accessioned by SIA. We use descriptive information in finding aids, when  
-  available, as a spring board for our own records and to maintain consistency. For collections maintained by museum departments, 
-  generally each collector is given her own collection because that is how the museum organizes it. If the museum chose another way to 
-  organize a collection, for example, kept all the field books inherited by another museum together as one group, we would organize the   
-  collection in the same way. 
+  5 We retain the organization of collections already accessioned by SIA. We use descriptive information in finding aids, when available, as a spring board for our own records and to maintain consistency. For collections maintained by museum departments, generally each collector is given her own collection because that is how the museum organizes it. If the museum chose another way to organize a collection, for example, kept all the field books inherited by another museum together as one group, we would organize the collection in the same way.  
 
-### NCD 0.7 as used by Smithsonian Field Book Project
+### NCD 0.7 as used by Smithsonian Field Book Project 
 
 These collection records are currently used to aggregate item records from a single field book collection together on the Smithsonian Collections Search Center (SI-CSC): http://collections.si.edu/search/results.htm?view=&dsort=&date.slider=&q=unit_code%3AFBR+collection+name
 
