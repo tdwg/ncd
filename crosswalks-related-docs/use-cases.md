@@ -37,7 +37,7 @@ This use case will focus on the collection level records which were created usin
 ### Collections as defined for field book description
 
 From Nakasone, S. and Sheffield, C. Descriptive Metadata for Field Books D-Lib Magazine, Volume 19, Number 11/2 (November/December 2013) http://www.dlib.org/dlib/november13/nakasone/11nakasone.html#4 :
-“A "collection" is defined as any group of field books with a unifying relationship4. Field book collections can be assembled in many ways; Smithsonian collections, however, are usually grouped by collector or expedition. For example, a collection grouped by the collector Alexander Wetmore would consist of field books created or owned by Wetmore. Alternatively, a collection grouped by the expedition United States Exploring Expedition might consist of field books created by various individuals that participated in that expedition. Less frequently, collections are assembled by the organizations as a creator. However they are grouped, collections are determined based on the way the field books were physically organized, with respect to the provenance and order in which they were received and maintained, prior to our involvement, in accordance with archival practice5.”
+“A "collection" is defined as any group of field books with a unifying relationship4. Field book collections can be assembled in many ways; Smithsonian collections, however, are usually grouped by collector or expedition. For example, a collection grouped by the collector Alexander Wetmore would consist of field books created or owned by Wetmore. Alternatively, a collection grouped by the expedition United States Exploring Expedition might consist of field books created by various individuals that participated in that expedition. Less frequently, collections are assembled by the organizations as a creator. However they are grouped, collections are determined based on the way the field books were physically organized, with respect to the provenance and order in which they were received and maintained, prior to our involvement, in accordance with archival practice.”
 
 ### NCD 0.7 as used by Smithsonian Field Book Project
 
@@ -45,6 +45,6 @@ These collection records are currently used to aggregate item records from a sin
 
 Each of these collection and item records also link to the Field Book Project-produced authority profiles for persons, organizations, and/or expeditions involved in their creation. 
 
-For more information on how the Field Book Project used NCD v.07, the Field Book Project Cataloging Manual is available here:
+For more information on how the Field Book Project used NCD v0.7, the Field Book Project Cataloging Manual is available here:
 https://drive.google.com/file/d/0BzbZIJVfq9rPUHQ3NDl6Y2Zha0U/view
 Section 1 focuses on Collection Level Description and includes a summary of elements used followed by detailed information specific to how the Field Book Project uses those elements, including definitions, recommended data values, and examples.
