@@ -24,3 +24,27 @@ Collaborative projects often use IH as a tool for identifying the range of parti
 
 Collecting permits for National Parks and other protected federal lands require that specimens collected on these sites be deposited in IH listed herbaria.  The U.S.  Fish & Wildlife Service uses IH as a resource for determining whether or not an institution should be granted a permit to house endangered species (a CITES permit) and uses IH code as part of the CITES permit identifier.  Recently U.S. Fish and Wildlife used the email contact list for IH to send a questionnaire to all herbaria asking them to evaluate their experiences applying for and managing CITES permits.  Additionally, IH is used by Homeland Security to find specialists for the identification of unknown specimens confiscated at U.S. customs.  Natural Resource Managers use IH to find experts to identify species on federal lands.  The National Park Service uses IH to keep track of specimens collected in National Parks for their annual inventories and collection assessments.
 
+
+
+## Smithsonian Field Book Project
+
+The Field Book Project is a collaborative grant-funded initiative based at Smithsonian to catalog, digitize, and provide open access to scientists’ field notes held in the collections of the Smithsonian Institution Archives and other Smithsonian departments.
+
+The Field Book Project cataloging approach involved creating collection level records, item level records, and authority records for people, organizations, and expeditions.  Collection level records were created using a subset of elements from NCD v.0.7.  Item level records were created using MODS (Metadata Object Description Schema, a somewhat simplified version of the widely adopted library schema MARC), and EAC-CPF (Encoded Archival Context for Corporate Bodies, Persons, and Families) for the authority files.
+
+This use case will focus on the collection level records which were created using the subset of NCD v 0.7 data elements.  As of 23 February 2018, 658 collection records have been created by the Field Book Project. The majority of these records have been published to the Smithsonian Collections Search Center and can be viewed here: http://collections.si.edu/search/results.htm?view=&dsort=&date.slider=&q=unit_code%3AFBR+collection+name
+
+### Collections as defined for field book description
+
+From Nakasone, S. and Sheffield, C. Descriptive Metadata for Field Books D-Lib Magazine, Volume 19, Number 11/2 (November/December 2013) http://www.dlib.org/dlib/november13/nakasone/11nakasone.html#4 :
+“A "collection" is defined as any group of field books with a unifying relationship4. Field book collections can be assembled in many ways; Smithsonian collections, however, are usually grouped by collector or expedition. For example, a collection grouped by the collector Alexander Wetmore would consist of field books created or owned by Wetmore. Alternatively, a collection grouped by the expedition United States Exploring Expedition might consist of field books created by various individuals that participated in that expedition. Less frequently, collections are assembled by the organizations as a creator. However they are grouped, collections are determined based on the way the field books were physically organized, with respect to the provenance and order in which they were received and maintained, prior to our involvement, in accordance with archival practice.”
+
+### NCD 0.7 as used by Smithsonian Field Book Project
+
+These collection records are currently used to aggregate item records from a single field book collection together on the Smithsonian Collections Search Center (SI-CSC): http://collections.si.edu/search/results.htm?view=&dsort=&date.slider=&q=unit_code%3AFBR+collection+name
+
+Each of these collection and item records also link to the Field Book Project-produced authority profiles for persons, organizations, and/or expeditions involved in their creation. 
+
+For more information on how the Field Book Project used NCD v0.7, the Field Book Project Cataloging Manual is available here:
+https://drive.google.com/file/d/0BzbZIJVfq9rPUHQ3NDl6Y2Zha0U/view
+Section 1 focuses on Collection Level Description and includes a summary of elements used followed by detailed information specific to how the Field Book Project uses those elements, including definitions, recommended data values, and examples.
