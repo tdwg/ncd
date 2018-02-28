@@ -2,7 +2,7 @@
 
 ## Index Herbariorum 
 
-The IH search page is consistently the most-visited webpage in the NYBG Virtual Herbarium (72,998 visits in the past 12 months, or 199/day). Study of web use statistics and direct feedback from users reveals a wide user base, the main groups of which are summarized here. <--- I think this should be a link
+The IH search page is consistently the most-visited webpage in the NYBG Virtual Herbarium (72,998 visits in the past 12 months, or 199/day). Study of web use statistics and direct feedback from users reveals a wide user base, the main groups of which are summarized below. 
 
 ### Herbarium commerce 
 
