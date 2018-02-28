@@ -2,7 +2,7 @@
 
 ## Index Herbariorum 
 
-The IH search page is consistently the most-visited webpage in the NYBG Virtual Herbarium (72,998 visits in the past 12 months, or 199/day). Study of web use statistics and direct feedback from users reveals a wide user base, the main groups of which are summarized here. 
+The IH search page is consistently the most-visited webpage in the NYBG Virtual Herbarium (72,998 visits in the past 12 months, or 199/day). Study of web use statistics and direct feedback from users reveals a wide user base, the main groups of which are summarized here. <--- I think this should be a link
 
 ### Herbarium commerce 
 
@@ -52,3 +52,31 @@ Each of these collection and item records also link to the Field Book Project-pr
 For more information on how the Field Book Project used NCD v0.7, the Field Book Project Cataloging Manual is available here:
 https://drive.google.com/file/d/0BzbZIJVfq9rPUHQ3NDl6Y2Zha0U/view
 Section 1 focuses on Collection Level Description and includes a summary of elements used followed by detailed information specific to how the Field Book Project uses those elements, including definitions, recommended data values, and examples.
+
+## GBIF Data Management
+
+GBIF has a multi-faceted interest in collection descriptions metadata.
+
+### Publishing and sharing collection description metadata
+
+Some GBIF nodes (notably Atlas of Living Australia) collect and manage collection metadata as a national-scale catalogue.  This is frequently a scale at which such information can efficiently be gathered and curated, and GBIF is interested in promoting and reinforcing this approach across its nodes, while at the same time avoiding unproductive overlaps with Index Herbariorum and other community initiatives.
+
+### Increasing linked-open-data aspects of GBIF aggregated data
+
+A primary goal for GBIF in aggregating and indexing specimen data (and other occurrence records) is to increase normalisation and to deduplicate diffuse text references to known concepts and entities, including e.g. countries, taxon concepts, field collection protocols, etc.  A key class of entities for which this should be possible is the set of natural history collections.  A well-managed catalogue/vocabulary of the world's NHCs would offer many opportunities to normalise collection codes/identifiers in specimen records and establish linked-open-data pathways within accessible biodiversity data.
+
+### Collection description metadata as anchor for subsequent digitisation
+
+Publishing a collection description can be seen as the first step in bringing a collection online and is concsequently a useful point to start engagement with collections.  The description record can then serve as the anchor point for linking further digitisation products, including refining taxonomic scope through checklists, publishing Darwin Core records, and augmenting with rich digital media and other artefacts.
+
+### Promoting data mobilisation by GBIF national nodes
+
+A comprehensive baseline catalogue of the world's NHCs, including information on taxonomic/geographic scope and coverage and of current digitisation status, would form a key tool to support annual planning by nodes for priority actions to support or advance data mobilisation, and a baseline for measuring progress.
+
+### Supporting researcher discovery and access for undigitised materials
+
+GBIF is interested in understanding which collections hold currently indigitised materials, so these collecitons can be highlighted as part of some searches.  This will assist taxonomists and others in locating material and perhaps stimulating digitisation.
+
+### Developing fundable digitisation proposals
+
+It will be much easier to plan and seek funding for digitisation projects for a single institution or a network of related collections if there is a clear public view of what they hold and what they have to offer as part of an integrated biodiversity knowledge resource.  This is an opportunity for collections to highlight what they have that is unique.
