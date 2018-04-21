@@ -59,6 +59,7 @@ Barbara Thiers, Joanna McCaffrey, Kevin Love, Alex Thompson, Donald Hobern, Debo
 * https://github.com/tdwg/ncd/blob/master/NCD-v090_TDWG/NCD-v090_TDWG-Normative.doc
 * Crosswalks including mapping from [GRBio.org](https://github.com/tdwg/ncd/wiki/Crosswalks)
 * link to [2016](https://tdwg2016.sched.com/event/8jva/ig09-natural-collections-descriptions-ncd) and [2017](https://biss.pensoft.net/article/20322/) interest group abstracts
+* [Google Doc](https://docs.google.com/document/d/1ZoIlKX666QPjKN3UGceAK_T0J2i0laft-io9Fr-Adrw/edit?usp=sharing) with 2016 and 2017 meeting notes
 * Use cases added to the [wiki](https://github.com/tdwg/ncd/wiki/Use-Cases) from GBIF, IH, Randy Singer (iDigBio), The Smithsonian, and the Field Museum.
 
 ## Draft Specifications
