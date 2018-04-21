@@ -41,10 +41,13 @@ example: collectionCodes confusion, who are the contacts for what purpose
 * Two co-conveners
 * Subcommittees to take on tasks as needed
   * Use Cases group (Barb Thiers)
+    * See [Use cases](https://github.com/tdwg/ncd/wiki/Use-Cases) gathered and added to the wiki
   * Update mappings and crosswalks (Jana, Falko, ...)
+    * Some of this is done. see [crosswalks](https://github.com/tdwg/ncd/wiki/Crosswalks)
   * Hypothetical datasets (Dag E?)
   * Document data-sharing standard changes needed to implement (DwC-A changes? IPT changes?, etc)
   * Drafting this charter
+    * Done
 
 ## Membership
 Currently assumed to be those who expressed interest at the last two TDWG meetings.
