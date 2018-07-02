@@ -52,7 +52,7 @@ example: collectionCodes confusion, who are the contacts for what purpose
 ## Membership
 Currently assumed to be those who expressed interest at the last two TDWG meetings.
 
-Barbara Thiers, Joanna McCaffrey, Kevin Love, Alex Thompson, Donald Hobern, Deborah Paul, Sharon Grant, Kate Webbink*, (et al at Field Museum), Mike Trizna, William Ulate, Connie Rinaldo, Andrea Hahn*, Wouter Addink, Carolyn Sheffield, Holly Little, James Macklin, Anissa Lybaert, Joel Ramirez, Melissa Tulig, Falko Glöckler (MfN Berlin), Jana Hoffmann (MfN Berlin), Dag Endresen, Judith Price
+Matt Woodburn (Co-chair), Barbara Thiers, Joanna McCaffrey, Kevin Love, Alex Thompson, Donald Hobern, Deborah Paul, Sharon Grant, Kate Webbink*, (et al at Field Museum), Mike Trizna, William Ulate, Connie Rinaldo, Andrea Hahn*, Wouter Addink, Carolyn Sheffield, Holly Little, James Macklin, Anissa Lybaert, Joel Ramirez, Melissa Tulig, Falko Glöckler (MfN Berlin), Jana Hoffmann (MfN Berlin), Dag Endresen, Judith Price
 
 ## Meetings, documentation and reporting
 
