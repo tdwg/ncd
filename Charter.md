@@ -4,9 +4,11 @@ TDWG Interest Group
 
 ## Convenors
 
-Alex Thompson (godfoder@acis.ufl.edu)
-
 Deb Paul (dpaul@fsu.edu)
+
+Matt Woodburn (m.woodburn@nhm.ac.uk)
+
+(Past Co-convenor, Alex Thompson)
 
 ## Current people expressing interest to work on NCD
 
@@ -23,7 +25,8 @@ Kate Webbink (kwebbink(at)fieldmuseum.org)
 Janeen Jones (jjones(at)fieldmuseum.org)  
 Pete Herbst (pherbst(at)fieldmuseum.org)  
 Rob Zshernitz (rzschernitz(at)fieldmuseum.org)  
-Rusty Russell (rrussell(at)fieldmuseum.org)  
+Rusty Russell (rrussell(at)fieldmuseum.org)
+
 
 ## Motivation
 
